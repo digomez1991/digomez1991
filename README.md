@@ -13,6 +13,7 @@
 [![Keras](https://img.shields.io/badge/Keras-red?style=for-the-badge&logo=keras&logoColor=white&labelColor=101010)]()
 [![Scikit_learn](https://img.shields.io/badge/Scikit_learn-orange?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=101010)]()
 [![Numpy](https://img.shields.io/badge/Numpy-blue?style=for-the-badge&logo=numpy&logoColor=white&labelColor=101010)]()
+[![Scipy](https://img.shields.io/badge/Scipy-004894?style=for-the-badge&logo=scipy&logoColor=white&labelColor=101010)]()
 
 ## Encuentrame en:
 
