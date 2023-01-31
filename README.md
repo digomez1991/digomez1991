@@ -1,7 +1,7 @@
 # 👋 Hola, mi nombre es Diego Gómez
 ### Soy un futuro data science de Santiago, Chile
 
-- 🌱 Actualmente estoy estudiando Python y machine learning a traves del Bootcamp de Practicum Yandex
+- 🌱 Actualmente licenciado de data science a traves del Bootcamp de Practicum Yandex
 
 - 📫 Puedes contactarme a **digomez1991@gmail.com**
 
