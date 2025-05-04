@@ -1,9 +1,9 @@
 # Hola, mi nombre es Diego Gómez
-### Soy un data science - data analyst de Santiago, Chile
+### Data Scientist & Data Analyst desde Santiago, Chile
 
-- 🌱 Actualmente licenciado de data science a traves del Bootcamp de Practicum Yandex (TripleTen)
+Apasionado por transformar datos en decisiones estratégicas. Me especializo en análisis exploratorio, modelado predictivo y visualización de datos aplicados a problemas reales de negocio. Actualmente estoy perfeccionando mis habilidades en machine learning y big data, con foco en la industria de telecomunicaciones y energía.
 
-- 📫 Puedes contactarme a **digomez1991@gmail.com**
+- Puedes contactarme a **digomez1991@gmail.com**
 
 ## Skills:
 
